@@ -9,7 +9,7 @@ assignees: ''
 
 ### Description 
 
-role details / capability details / value details
+<!-- role details / capability details / value details -->
 
 ### Acceptance Criteria
 
@@ -26,3 +26,14 @@ role details / capability details / value details
 - [ ] task 1
 - [ ] task 2
 - [ ] task 3
+
+### Definition of Done
+
+- [ ] Implementation and design approved
+- [ ] Unit tests pass
+- [ ] Test coverage = 100%
+- [ ] Microbenchmarks added and/or affected microbenchmarks < 5% performance drop
+- [ ] API documentation added
+- [ ] Tutorial/teaching material added
+- [ ] Test suite compiles in less than 30 seconds (on travis)
+- [ ] Changelog entry added
