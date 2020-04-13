@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: The user story template to track new feature requests.
-title: As <role> I want <capability> so I can <value>
+title: ''
 labels: ''
 assignees: ''
 
@@ -10,6 +10,8 @@ assignees: ''
 ### Description 
 
 <!-- role details / capability details / value details -->
+As <role> I want <capability> so I can <value>
+
 
 ### Acceptance Criteria
 
